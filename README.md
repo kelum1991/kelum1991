@@ -2,14 +2,11 @@
 
 **kelum1991/kelum1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kelum1991" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelum1991&layout=compact&langs_count=8&card_width=320" />
-</a>
+I'm a `UI/UX Engineer` with 4+ years (and counting) of well-rounded experience in the web development industry.
 
-Here are some ideas to get you started:
+I love to craft awesome web sites, and Web Applications using the latest web standards and integrate usability, Cutting edge technologies, and User experience design. I always prefer clean and elegant coding, and It makes me feel sad to see bad designs.
+
+Here are some more stats about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,14 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kelum1991" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelum1991&layout=compact&langs_count=8&card_width=320" />
+</a>
