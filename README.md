@@ -46,7 +46,7 @@ I love to craft awesome web sites, and Web Applications using the latest web sta
 </p>
 <br />
 
-### Profile statistic:
+### Profile statistic
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kelum1991" />
 </a>
