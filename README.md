@@ -6,7 +6,7 @@ I'm a `Frontend Engineer` with 4+ years (and counting) of well-rounded experienc
 
 I love to craft awesome web sites, and Web Applications using the latest web standards and integrate usability, Cutting edge technologies, and User experience design.
 <br /><br />
-### Highlighted skills and knowledge:
+### Highlighted skills and knowledge
 
 - Solid knowledge of HTML5, CSS3, JavaScript, Jquery, ES6, JSON
 - React / NextJS
