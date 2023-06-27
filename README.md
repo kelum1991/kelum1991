@@ -21,7 +21,7 @@ I love to craft awesome web sites, and Web Applications using the latest web sta
 - Ability to learn quickly and implement new technology
 - Eager to involve in Team work and Leadership
 - Web animations
-<br /><br />
+<br />
 ### Languages and Tools
 
 <p align="left" dir="auto">
@@ -45,7 +45,8 @@ I love to craft awesome web sites, and Web Applications using the latest web sta
 <a href="https://yarnpkg.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="“yarn”" width="40" height="40" style="max-width: 100%;"> </a>
 </p>
 <br />
-<br />
+
+### Profile statistic:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kelum1991" />
 </a>
