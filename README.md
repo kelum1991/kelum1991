@@ -6,7 +6,13 @@ I'm a `Frontend Engineer` with 4+ years (and counting) of well-rounded experienc
 
 I love to craft awesome web sites, and Web Applications using the latest web standards and integrate usability, Cutting edge technologies, and User experience design.
 <br /><br />
-### Highlighted skills and knowledge
+<p align="left" dir="auto">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="html5" width="100" height="30" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="html5" width="100" height="30" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="html5" width="100" height="30" style="max-width: 100%;">
+</p>
+
+### Highlighted skills and knowledge 
 
 - Solid knowledge of HTML5, CSS3, JavaScript, Jquery, ES6, JSON
 - React / NextJS
